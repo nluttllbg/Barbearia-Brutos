@@ -1,0 +1,6 @@
+{
+  "name": "Brutus Barbearia Premium",
+  "description": "Website moderno e sofisticado para barbearia com agendamento via WhatsApp, catálogo de serviços, produtos e galeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
